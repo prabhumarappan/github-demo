@@ -11,8 +11,6 @@ print("###########")
 
 end = dt.datetime.now()
 
-print("DO NOT NEED")
-
 print("NEEDED LINE")
 
 print(end - start)
