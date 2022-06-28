@@ -11,8 +11,6 @@ print("###########")
 
 print("WRONG CODE HERE")
 
-end = dt.datetime.now()
-
 print("WRONG CODE HERE")
 
-print(end - start)
+print(dt.datetime.now() - start)
